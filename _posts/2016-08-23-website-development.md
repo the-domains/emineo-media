@@ -1,23 +1,25 @@
 ---
+datePublished: '2016-08-23T08:44:59.601Z'
+sourcePath: _posts/2016-08-23-website-development.md
+author: []
+via: {}
+dateModified: '2016-08-23T08:44:59.311Z'
+title: Website Development
+publisher: {}
 description: >-
   In today’s day and age, there are many websites that all look a lot alike. To
   differentiate your business online, there is a myriad of factors that must be
   considered in creating an online presence that reflects the quality, culture
   and commitment of your company.
-dateModified: '2016-08-23T08:44:28.621Z'
-datePublished: '2016-08-23T08:44:31.398Z'
-title: Website Development
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-23-website-development.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2a55215-5eb7-4a9b-9298-62aadbefc1da.jpg)
+
 # Website Development
 
 ## Our core competencies are in the design and development of impactful, interactive websites.
