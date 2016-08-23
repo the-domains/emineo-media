@@ -1,24 +1,25 @@
 ---
+datePublished: '2016-08-23T08:41:32.254Z'
+sourcePath: >-
+  _posts/2016-08-23-branding-is-one-of-the-most-important-aspects-of-any-busines.md
+author: []
+via: {}
+dateModified: '2016-08-23T08:41:31.951Z'
+title: Branding
+publisher: {}
 description: >-
   Branding is one of the most important aspects of any business, large or small,
   retail or B2B. An effective brand strategy gives you a major edge in
   increasingly competitive markets. But what exactly does “branding” mean? How
   does it affect a small business like yours?
-dateModified: '2016-08-23T08:41:16.099Z'
-datePublished: '2016-08-23T08:41:22.287Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-23-branding-is-one-of-the-most-important-aspects-of-any-busines.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+# Branding
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6aa5ce07-8f09-49c6-933a-c42e3b6b8821.jpg)
 
 Branding is one of the most important aspects of any business, large or small, retail or B2B. An effective brand strategy gives you a major edge in increasingly competitive markets. But what exactly does "branding" mean? How does it affect a small business like yours?
